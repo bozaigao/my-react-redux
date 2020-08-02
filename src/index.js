@@ -1,8 +1,8 @@
 /*
  * @Author: your name
  * @Date: 2020-08-02 08:36:23
- * @LastEditTime: 2020-08-02 16:17:27
- * @LastEditors: your name
+ * @LastEditTime: 2020-08-02 16:18:53
+ * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-react-redux/src/index.js
  */
@@ -10,6 +10,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+
 
 ReactDOM.render(
   <React.StrictMode>
